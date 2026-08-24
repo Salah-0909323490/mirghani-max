@@ -1,0 +1,27 @@
+{
+  "name": "ميرغني ماكس - تصميم فيديو وصور",
+  "short_name": "ميرغني ماكس",
+  "description": "تصميم شعارات، مونتاج فيديوهات، ودبلجة وتحرير صور",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#120d08",
+  "theme_color": "#d4af37",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
